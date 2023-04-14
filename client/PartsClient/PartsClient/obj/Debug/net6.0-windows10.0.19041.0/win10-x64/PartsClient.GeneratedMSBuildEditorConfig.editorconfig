@@ -8,39 +8,39 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PartsClient
-build_property.ProjectDir = C:\Users\avinf\OneDrive\Desktop\mslearn-dotnetmaui-consume-rest-services-main\src\client\PartsClient\PartsClient\
+build_property.ProjectDir = C:\Users\avinf\OneDrive\Documents\GitHub\dotnetmaui-consume-rest-services\client\PartsClient\PartsClient\
 
-[C:/Users/avinf/OneDrive/Desktop/mslearn-dotnetmaui-consume-rest-services-main/src/client/PartsClient/PartsClient/App.xaml]
+[C:/Users/avinf/OneDrive/Documents/GitHub/dotnetmaui-consume-rest-services/client/PartsClient/PartsClient/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/avinf/OneDrive/Desktop/mslearn-dotnetmaui-consume-rest-services-main/src/client/PartsClient/PartsClient/AppShell.xaml]
+[C:/Users/avinf/OneDrive/Documents/GitHub/dotnetmaui-consume-rest-services/client/PartsClient/PartsClient/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/avinf/OneDrive/Desktop/mslearn-dotnetmaui-consume-rest-services-main/src/client/PartsClient/PartsClient/Pages/AddPartPage.xaml]
+[C:/Users/avinf/OneDrive/Documents/GitHub/dotnetmaui-consume-rest-services/client/PartsClient/PartsClient/Pages/AddPartPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.Pages.AddPartPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\AddPartPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AddPartPage.xaml
 
-[C:/Users/avinf/OneDrive/Desktop/mslearn-dotnetmaui-consume-rest-services-main/src/client/PartsClient/PartsClient/Pages/PartsPage.xaml]
+[C:/Users/avinf/OneDrive/Documents/GitHub/dotnetmaui-consume-rest-services/client/PartsClient/PartsClient/Pages/PartsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.Pages.PartsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\PartsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\PartsPage.xaml
 
-[C:/Users/avinf/OneDrive/Desktop/mslearn-dotnetmaui-consume-rest-services-main/src/client/PartsClient/PartsClient/Resources/Colors.xaml]
+[C:/Users/avinf/OneDrive/Documents/GitHub/dotnetmaui-consume-rest-services/client/PartsClient/PartsClient/Resources/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.Resources.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Colors.xaml
 
-[C:/Users/avinf/OneDrive/Desktop/mslearn-dotnetmaui-consume-rest-services-main/src/client/PartsClient/PartsClient/Resources/Styles.xaml]
+[C:/Users/avinf/OneDrive/Documents/GitHub/dotnetmaui-consume-rest-services/client/PartsClient/PartsClient/Resources/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.Resources.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml

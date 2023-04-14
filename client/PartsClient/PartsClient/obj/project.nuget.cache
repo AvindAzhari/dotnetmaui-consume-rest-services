@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TrpDYfUjUaQv4kvhsHn4VBUZ7xdLlIPRFZaH2aecEN6Fj18tZe902tlxfdWjnKTDEqsGVyor8DQpfksE8BcLOw==",
+  "dgSpecHash": "1HubdFIaBaT97P1HaquXZ2YA4VyVszsU6Zk/xcTMmci8EPcWdkM5RR5xeH427/vWp5NjPZCJm038IDPYfZ+wVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\avinf\\OneDrive\\Desktop\\mslearn-dotnetmaui-consume-rest-services-main\\src\\client\\PartsClient\\PartsClient\\PartsClient.csproj",
+  "projectFilePath": "C:\\Users\\avinf\\OneDrive\\Documents\\GitHub\\dotnetmaui-consume-rest-services\\client\\PartsClient\\PartsClient\\PartsClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\avinf\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\avinf\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

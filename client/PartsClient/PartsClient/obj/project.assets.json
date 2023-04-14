@@ -25022,11 +25022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\avinf\\OneDrive\\Desktop\\mslearn-dotnetmaui-consume-rest-services-main\\src\\client\\PartsClient\\PartsClient\\PartsClient.csproj",
+      "projectUniqueName": "C:\\Users\\avinf\\OneDrive\\Documents\\GitHub\\dotnetmaui-consume-rest-services\\client\\PartsClient\\PartsClient\\PartsClient.csproj",
       "projectName": "PartsClient",
-      "projectPath": "C:\\Users\\avinf\\OneDrive\\Desktop\\mslearn-dotnetmaui-consume-rest-services-main\\src\\client\\PartsClient\\PartsClient\\PartsClient.csproj",
+      "projectPath": "C:\\Users\\avinf\\OneDrive\\Documents\\GitHub\\dotnetmaui-consume-rest-services\\client\\PartsClient\\PartsClient\\PartsClient.csproj",
       "packagesPath": "C:\\Users\\avinf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\avinf\\OneDrive\\Desktop\\mslearn-dotnetmaui-consume-rest-services-main\\src\\client\\PartsClient\\PartsClient\\obj\\",
+      "outputPath": "C:\\Users\\avinf\\OneDrive\\Documents\\GitHub\\dotnetmaui-consume-rest-services\\client\\PartsClient\\PartsClient\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
